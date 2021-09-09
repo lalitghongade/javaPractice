@@ -1,3 +1,3 @@
-# javaPractice
+#javaPowerProgramerPractice
 this dumping for java practice programs
- frequently asked coding questions will be here
+frequently asked coding questions will be here
